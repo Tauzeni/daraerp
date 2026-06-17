@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Laravel Bootstrap Website Builder CMS",
+  "description": "An interactive Content Management System and Visual Page Designer for building, generating, and exporting production-ready Laravel projects styled with Bootstrap 5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
